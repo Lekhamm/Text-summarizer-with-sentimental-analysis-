@@ -1,0 +1,4 @@
+streamlit
+summa
+nltk
+pytesseract
